@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
      AWS_DEFAULT_REGION: "us-east-1"
-     IMAGE_REPO_NAME: "sampath-repo"
+     IMAGE_REPO_NAME: "sampaththulasiraja"
      IMAGE_TAG: "latest"
      AWS_ACCOUNT_ID: "381492188727"
      DOCKER_PASSWORD: "Sampath@171091"
